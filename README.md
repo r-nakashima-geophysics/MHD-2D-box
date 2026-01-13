@@ -51,6 +51,8 @@ cp -r common-package/package_common .
 
 The recommended version of the common package is v1.0.1 or later.
 
+Saving animations as MP4 files requires `ffmpeg` ([https://ffmpeg.org](https://ffmpeg.org)) to be installed.
+
 ## Usage
 
 ```sh
