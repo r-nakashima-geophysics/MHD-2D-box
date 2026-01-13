@@ -21,6 +21,7 @@ import sys
 import numpy as np
 from matplotlib import animation
 from numba import njit, prange
+
 from package_common.common_types import ArrayFloat, Final, Self
 from package_common.default_logger import DefaultLogger
 from package_common.default_plotter import DefaultPlotter, create_plotter
