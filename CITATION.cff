@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+    - family-names: "Nakashima"
+      given-names: "Ryosuke"
+      orcid: "https://orcid.org/0000-0003-1817-057X"
+title: "r-nakashima-geophysics/MHD-2D-box: v1.0.0"
+version: 1.0.0
+doi: 10.5281/zenodo.18229346
+date-released: 2026-01-13
+url: "https://github.com/r-nakashima-geophysics/MHD-2D-box"

@@ -1,5 +1,7 @@
 # MHD-2D-box
 
+[![DOI](https://zenodo.org/badge/1133300358.svg)](https://doi.org/10.5281/zenodo.18229345)
+
 This Python script (`mhd2dbox.py`) simulates two-dimensional (2D) incompressible magnetohydrodynamic (MHD) flows in a box or on a beta plane with the finite difference and vorticity&ndash;stream function methods.
 
 The non-dimensional governing equations are
